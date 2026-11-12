@@ -1,2 +1,0 @@
-Link streamlit: https://baskara.streamlit.app
-link Colab: https://colab.research.google.com/drive/1utAuOeN3VajTOj4SnuAJcwB26h__BzKK?usp=sharing
